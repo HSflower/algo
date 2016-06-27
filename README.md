@@ -8,26 +8,13 @@
 This is a Repository for Algorithm Study! 
 Nothing Special! It is Just for Studying and Praticing Algorithm.
 
+알고리즘 스터디를 위한 저장소입니다! 알고리즘을 공부하고 직접 구현한 소스를 올려놓았습니다.
+
 * Version
 
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+만일 문의가 있으시다면 alienqueenno.4@gmail.com으로 연락 주세요!
