@@ -14,7 +14,8 @@ Nothing Special! It is Just for Studying and Practicing Algorithm.
 1. 재귀를 사용해 quick sort 구현
 2. 스택을 사용해 재귀를 없앤 quick sort구현
 3. 재귀를 사용해 merge sort 구현
-4. 자연 합병 정렬 구현
+4. 자연 합병 정렬 구현 (주어진 배열 속에 이미 순서에 맞는 원소로 된 부분 배열, 즉 런(Run)만을 합병하는 mergeSort)
+
 7/10일까지 커밋해 주세요!
 
 * Sites for practice
