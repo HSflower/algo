@@ -9,14 +9,10 @@ Nothing Special! It is Just for Studying and Practicing Algorithm.
 
 알고리즘 스터디를 위한 저장소입니다! 알고리즘을 공부하고 직접 구현한 소스를 올려놓았습니다.
 
-* 오늘의 과제 (7/3) 
-
-1. 재귀를 사용해 quick sort 구현
-2. 스택을 사용해 재귀를 없앤 quick sort구현
-3. 재귀를 사용해 merge sort 구현
-4. 자연 합병 정렬 구현 (주어진 배열 속에 이미 순서에 맞는 원소로 된 부분 배열, 즉 런(Run)만을 합병하는 mergeSort)
-
-7/10일까지 커밋해 주세요!
+* 오늘의 과제 (7/17) 
+1. HeapSort 구현하기
+2. PPT의 HeapSort 뒤 쪽의 비교 기반, 키 분포 활용 정렬 알고리즘 예습해오기
+7/24일까지 커밋해 주세요!
 
 * Sites for practice
 
