@@ -9,7 +9,8 @@ Nothing Special! It is Just for Studying and Practicing Algorithm.
 
 알고리즘 스터디를 위한 저장소입니다! 알고리즘을 공부하고 직접 구현한 소스를 올려놓았습니다.
 
-* 오늘의 과제 (7/24) 
+* 오늘의 과제 (7/24)
+
 1. RadixSort(기수 정렬) 구현하기
 2. 검색 알고리즘을 위해서 이진 트리ㅠㅠㅠ 복습해주세요!
 7/ 31일까지 커밋해 주세요!
