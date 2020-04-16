@@ -12,3 +12,13 @@ if h<=1024 and b%4 == 0 and w<=1024:
 result = float(total_amount)/8
 
 print('%.2f MB' % (result/1024/1024))
+
+
+#모범답안
+a,b,c=input().split()
+
+W=int(a)
+H=int(b)
+B=int(c)
+
+print('%.2f MB' % (W*H*B/8/1024/1024))
