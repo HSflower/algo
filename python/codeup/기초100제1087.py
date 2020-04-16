@@ -13,3 +13,17 @@ for i in range(1,n+1):
   sum+=i
 
 print(sum)
+
+
+#모범답안
+a=input()
+
+n=int(a)
+
+s=0
+i=1
+while s<n :
+   s+=i
+   i+=1
+
+print(s)
